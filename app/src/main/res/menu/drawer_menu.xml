@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+   <group android:id="@+id/main">
+
+       <item android:id="@+id/menu_feed"
+           android:icon="@drawable/ic_menu_black_24dp"
+           android:title="Menu">
+       </item>
+
+   </group>
+
+    <group android:id="@+id/menu_drawer">
+
+
+<item android:id="@+id/dashboard"
+    android:icon="@drawable/ic_dashboard_black_24dp"
+    android:title="Dashboard">
+</item>
+
+        <item android:id="@+id/student"
+            android:icon="@drawable/ic_supervisor_account_black_24dp"
+            android:title="Student">
+        </item>
+
+        <item android:icon="@drawable/ic_school_black_24dp"
+            android:title="Teacher"
+            android:id="@+id/teacher">
+        </item>
+        <item android:id="@+id/subject"
+            android:icon="@drawable/ic_local_library_black_24dp"
+            android:title="Subjects">
+        </item>
+
+
+    </group>
+
+</menu>

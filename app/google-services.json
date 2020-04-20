@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1096730404382",
+    "firebase_url": "https://mymeetings-53e0b.firebaseio.com",
+    "project_id": "mymeetings-53e0b",
+    "storage_bucket": "mymeetings-53e0b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096730404382:android:2a4be06dd76186bea4300f",
+        "android_client_info": {
+          "package_name": "com.example.myschoolapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096730404382-sc3pj5lbfegh5nkidkfrlh4fpsjb8cff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myschoolapp",
+            "certificate_hash": "721e7c80e9a0adfd61e3f313aab952c3430f302e"
+          }
+        },
+        {
+          "client_id": "1096730404382-rmtdqp7vvefvh1bqc6eb2sav426bv4s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEdhBq_TmcivCqn0gotZitSTG5fWPofC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096730404382-rmtdqp7vvefvh1bqc6eb2sav426bv4s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096730404382:android:561d4094af5808d1a4300f",
+        "android_client_info": {
+          "package_name": "com.example.rahulrane.attendancesystemhotspotbased"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096730404382-q2ghqe2epk6vmq6r3cgb0sf3ptmcukh9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rahulrane.attendancesystemhotspotbased",
+            "certificate_hash": "721e7c80e9a0adfd61e3f313aab952c3430f302e"
+          }
+        },
+        {
+          "client_id": "1096730404382-rmtdqp7vvefvh1bqc6eb2sav426bv4s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEdhBq_TmcivCqn0gotZitSTG5fWPofC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096730404382-rmtdqp7vvefvh1bqc6eb2sav426bv4s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
